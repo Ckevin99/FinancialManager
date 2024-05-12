@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script type="module" src="JS/startkey.js"> </script>
+    <script type="module" src="JS/databaseff.js"> </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel ="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+<div id="core">
+    <div id="expenses">
+        <h3>expenses</h3>
+        <ul id="expenses_listed"></ul>
+    
+    </div>
+    <div id="incomes">
+        <h3>Incomes</h3>
+        <ul id="incomes_listed"></ul>
+        
+    </div> 
+    <div id="user_interaction">
+        <div id="inputmoney">
+            <h3>Type a value:</h3>
+            
+            <input id="input_box_value">
+        </div>
+        <div id="sentexpense">
+
+        <button id="expense_button">Add Expense</button>
+        </div>
+        <div id="sentincome">
+        <button id="income_button">Add Income</button>
+        </div>
+        
+        
+        <div id="inputdescription"><h4>Type a comment:</h4><input  id="input_box_description"></div>
+        <div id="console_answer_box"><h3 id="console_answer"></h3></div>
+        
+    </div>
+    <div id="budget">
+        <h2>budget</h2>
+        <div id="total_expenses"><h3>Expenses</h3><h4 id="total_text_expenses"></h4></div>
+        <div id="total_incomes"><h3>Incomes</h3><h4 id="total_text_incomes"></h4></div>
+        <div id="total_remaining"><h3>Remaning</h3><h4 id="total_text_remaining"></h4></div>
+        <div id="save_button_container"><button id="save_button">Save</button></div>
+        <div id="delete_button_container"><button id="delete_button">Delete all</button></div>
+        
+    
+    </div>    
+</div>
+</body>
+</html>
