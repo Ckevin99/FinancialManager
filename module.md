@@ -77,17 +77,19 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-|          | 1:00 total         |        |  searched about firestore                                          |             |
-|   05/07       | 10:25-11:55         |  created a code to handle with the data      |                                            |             |
-|     09     |  12:30-12:45        |   created a grid in html     |                                            |             |
-|   02/05       | 4:40:5:25         |        |                                            |             |
-|    9/2      |   11:40:12:58       |   I developed my html better and solved partially the integration with js     |          
-5/10   11:30-3:15     make the program retrieve data from firestore                                  |             |
-|   20:40 - 9:43      |  make buttons interact with the js make the data be concistent with the functions         |        |                                            |             |
-00:01-1:05
-2:31-3:54  worked on the budget block, addeded more functions to the program.
-4:00-4:56  font api, trying to handle saving problem
-5:44-
+|  04/29   |  13:00   |   IM   | searched about firestore                   |     1:00    |
+|  05/07   |  10:25   |   IM   | structure to handle with the data          |     1:30    |
+|  05/09   |  12:30   |   IM   | created a grid in html                     |     0:15    |
+|  05/01   |  10:15   |   TP   |                                            |     1:00    |             
+|  05/02   |  4:40    |   TP   | Decided what to use in  the project        |     1:15    |
+|  05/06   |  10:15   |   TP   | Decide how to structure the program        |     1:00    |
+|  05/09   |  11:40   |   IM   | I improved my html and  integration with js|     1:28    |      
+|  05/10   |  11:30   |   IM   | the program retrieve data from firestore   |     1:45    |                             
+|  05/10   |  20:40   |   IM   | buttons interact, data better              |     1:03    |
+|   05/11  |  00:01   |   IM   |                                            |     1:04    |
+|   05/11  |2:31      |   IM   |  worked on the budget block, more functions|     1:13    |
+|   05/11  |4:00      |   IM   |   font api, trying to handle saving problem|     0:56    |
+|   05/11  |5:44      |   IM   | I Made my key be safe, solved minor bugs.  |     1:59    |
 
 _Note: Add more rows as needed._
 
@@ -96,29 +98,39 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here:  
+
+https://github.com/Ckevin99/FinancialManager
 
 2. Put your YouTube link for your code walkthrough and demo video here:
+
+https://www.youtube.com/watch?v=XJhqvDQ7q8s&ab_channel=KevinCorreia
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     |   Yes  |
+|Did you complete all the unique requirements for the module?|Not sure| (It insert, delete and retrieve, but not modify)
+|Did you write at least 100 lines of code?                   |   Yes  |
+|Did you fully complete the readme.md file?                  |   Yes  |
+|Did you put the readme.md file in GitHub in the top folder? |   Yes  |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
 
+No
+
 5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
+No
 
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|        12:13      |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+I made a plan to work every day on this, but I just started to work more consistently on it at the end of this week.
+A thing that helped me this week was the copilot. I used it as a teacher to help me with javascript.
+Using a cronometer to have breaks to rest and to do other important things helped me today.
 
