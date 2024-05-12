@@ -81,7 +81,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |  05/07   |  10:25   |   IM   | structure to handle with the data          |     1:30    |
 |  05/09   |  12:30   |   IM   | created a grid in html                     |     0:15    |
 |  05/01   |  10:15   |   TP   |                                            |     1:00    |             
-|  05/02   |  4:40    |   TP   | Decided what to use in  the project        |     1:15    |
+|  05/02   |  4:40    |   TP   | Decided what to use in  the project        |     0:50    |
 |  05/06   |  10:15   |   TP   | Decide how to structure the program        |     1:00    |
 |  05/09   |  11:40   |   IM   | I improved my html and  integration with js|     1:28    |      
 |  05/10   |  11:30   |   IM   | the program retrieve data from firestore   |     1:45    |                             
@@ -104,7 +104,7 @@ https://github.com/Ckevin99/FinancialManager
 
 2. Put your YouTube link for your code walkthrough and demo video here:
 
-https://www.youtube.com/watch?v=XJhqvDQ7q8s&ab_channel=KevinCorreia
+https://www.youtube.com/watch?v=0gzoIo878uE&ab_channel=KevinCorreia
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
@@ -130,7 +130,10 @@ No
 |Individual Module|        12:13      |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+
 I made a plan to work every day on this, but I just started to work more consistently on it at the end of this week.
+So I will try to start early(Again)
+
 A thing that helped me this week was the copilot. I used it as a teacher to help me with javascript.
 Using a cronometer to have breaks to rest and to do other important things helped me today.
 
